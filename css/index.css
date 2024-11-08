@@ -1,0 +1,120 @@
+
+/*PRINCIPAL*/
+
+body {
+   
+    margin: 0;
+    background-image:url("../assets/image/WhatsApp\ Image\ 2024-11-07\ at\ 19.12.57.jpeg") ;
+    background-position: lvh;
+    background-size: cover;
+  height: 80vh;
+  overflow : hidden;
+ 
+}
+
+#navbar {
+    background-color: #251484;
+    color: white;
+    height: 50px;
+    
+}
+
+#container {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+   
+}
+
+#logo1 {
+    margin-left: 15px;
+
+}
+
+#link-logo {
+    text-decoration: none;
+}
+
+#nextstage {
+    text-align: left;
+    margin-left: 15px;
+    font-family: "Tiny5", sans-serif;
+    color: white;
+}
+
+.tiny5-regular {
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+#pesquisar{
+
+    background-color: #251484;
+    margin-left: 550px;
+    font-family:"Tiny5", sans-serif;
+   
+    color:whitesmoke;
+}
+   
+
+   
+
+#tab-button {
+    display: flex;
+    justify-content: center;
+    margin-left: 200px;
+}
+
+#textotab {
+    color: white;
+    margin-right: 300px;
+}
+
+/*REGISTER*/
+#tituloRegister {
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    align-items : center;
+    flex-direction: column;
+    color: white;
+}
+
+#divform {
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items : center;
+}
+
+#formRegister {
+    color: white;
+}
+
+#fieldsetRegister {
+    background-color: transparent; 
+    border: 2px solid whitesmoke; 
+    padding: 20px; 
+    border-radius: 8px; 
+
+}
+.silkscreen-regular {
+  font-family: "Silkscreen", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.silkscreen-bold {
+  font-family: "Silkscreen", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+ h1{
+    font-family:"silkscreen", sans-serif;
+ }
+
+ h5{
+    font-family:"silkscreen", sans-serif;
+ }
